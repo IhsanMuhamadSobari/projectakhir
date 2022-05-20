@@ -1,0 +1,1 @@
+, judul = '$judul', tahun_rilis = '$tahun_rilis', rating = '$rating', genre = '$genre', sinopsis = '$sinopsis', aktor = '$aktor', sutradara = '$sutradara', penulis = '$penulis'
